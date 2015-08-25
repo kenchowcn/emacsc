@@ -1,4 +1,4 @@
-This is my emacs configuration, the original one is (emacs-kicker)[https://github.com/dimitri/emacs-kicker], which inspired me to make my own configuration.
+This is my emacs configuration, the original one is [emacs-kicker](https://github.com/dimitri/emacs-kicker), which inspired me to make my own configuration.
 
 ##Usage
 
