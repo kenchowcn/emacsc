@@ -154,7 +154,7 @@
 (setq frame-title-format "Ken @ %f")    ; show current position on title
 
 (tool-bar-mode -1)			; no tool bar with icons
-(scroll-bar-mode -1)			; no scroll bars
+;;(scroll-bar-mode -1)			; no scroll bars
 (unless (string-match "apple-darwin" system-configuration)
   ;; on mac, there's always a menu bar drown, don't have it empty
   (menu-bar-mode -1))
